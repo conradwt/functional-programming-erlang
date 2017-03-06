@@ -1,4 +1,4 @@
--module(recursion).
+-module(tail_recursion).
 -export([fib/1,pieces/1]).
 
 fib(0) -> 0;
